@@ -1,0 +1,8 @@
+Is Earth a planet?
+Earth yes/no?
+Is Mars a planet?
+Mars yes/no?
+Is Pluto a planet?
+Pluto yes/no?
+Is Jupiter a planet?
+Jupiter yes/no
